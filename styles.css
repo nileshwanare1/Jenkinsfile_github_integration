@@ -1,0 +1,19 @@
+body {
+    font-family: Arial;
+    margin: 20px;
+}
+
+nav a {
+    margin-right: 15px;
+    text-decoration: none;
+    color: blue;
+}
+
+nav a:hover {
+    color: red;
+}
+
+form input {
+    display: block;
+    margin: 10px 0;
+}
